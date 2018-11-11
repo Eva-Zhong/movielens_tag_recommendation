@@ -1,7 +1,8 @@
 # About this project
 
-In this project, I applied a few natural language processing algorithms to identify which tags that users of movielens--a movie 
-recommendation website--applied best characterize these movies. 
+In this project, I applied a few natural language processing algorithms to identify which tags that users of movielens--a movie recommendation website--applied best characterize these movies. 
+
+Movielens is a movie-recommendation website mainted by GroupLens, University of Minnesota. Data gathered through this site has facilitated numerous studies in Recommender Systems.
 
 My approach is:
 1. Remove duplicate tags (remove capitalization and punctuations)
