@@ -1,6 +1,6 @@
 # About this project
 
-In this project, I applied a few natural language processing algorithms identify which tags that users of movielens--a movie 
+In this project, I applied a few natural language processing algorithms to identify which tags that users of movielens--a movie 
 recommendation website--applied best characterize these movies. 
 
 My approach is:
